@@ -14,3 +14,7 @@
     width:  180px;
     height: 180px;
 }
+
+a:link, a:visited, a:hover, a:active {
+  color: black;
+}
